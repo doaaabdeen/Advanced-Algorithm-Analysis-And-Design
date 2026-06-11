@@ -4,9 +4,9 @@ A Comparative Study of Temporal Aggregation Strategies with Attention Mechanism
 against CLIP4Clip
 
 
-# Prepared by:
+### Prepared by:
 Doaa Abduallah Abdeen
-# Student ID:
+### Student ID:
 220243072
-# Supervisor:
+### Supervisor:
 Dr. Ashraf Y. Maghari
